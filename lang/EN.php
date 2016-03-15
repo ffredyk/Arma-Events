@@ -6,105 +6,105 @@ $lang_Header = array(
   "PageTitle" => "Arma Events",
   "PageDesc" => "Arma 3 events international community for all players",
   "Navigation" => array(
-    "MainPage" => "Hlavní stránka",
-    "Community" => "Komunita",
-    "Play" => "Hrát",
-    "AddonList" => "Seznam addonù",
+    "MainPage" => "Home page",
+    "Community" => "Community",
+    "Play" => "Play",
+    "AddonList" => "Addon List",
     "Briefing" => "Briefing",
     "User" => array(
-      "EventCreate" => "Vytvoøit novı event",
-      "EventList" => "Seznam mıch eventù",
-      "Stats" => "Herní statistika",
-      "Settings" => "Nastavení",
-      "UserProfile" => "Uivatelskı profil",
-      "Logout" => "Odhlásit se"
+      "EventCreate" => "Create new event",
+      "EventList" => "My Events",
+      "Stats" => "Gaming Statistics",
+      "Settings" => "Settings",
+      "UserProfile" => "User Profile",
+      "Logout" => "Log Out"
     )
   )
 );
 
 $lang_Page = array(
-  "WIPTitle" => "Stále ve vırobì",
-  "WIP" => "Ještì to tu není plnì pøipravené a hotové. Take zatím vydrte a mìjte strpení",
+  "WIPTitle" => "Work in progress",
+  "WIP" => "This is not fully finished and prepared. Please, have patience.",
   "AEHeaderTitle" => "Arma Events",
-  "AEHeader" => "Vítejte na novém portálu Arma Events! Jste na správném místì pokud hledáte trochu zábavy",
-  "AEWelcome" => "Vítejte na Arma Events!",
+  "AEHeader" => "Welcome to the new portal Arma Events! You're at the right place if you're looking for some fun!",
+  "AEWelcome" => "Welcome to Arma Events!",
   "ActualEvent" => array(
-    "Title" => "Aktuální event",
-    "Open" => "Otevøít informace o eventu"
+    "Title" => "Current Event",
+    "Open" => "Open information about the Event"
   ),
   "News" => array(
-    "Title" => "Poslední novinka",
-    "Open" => "Otevøít novinku"
+    "Title" => "Last news",
+    "Open" => "Open news"
   ),
   "ServerInfo" => array(
-    "Title" => "Informace o serveru",
-    "IP" => "IP serveru:",
+    "Title" => "Server Information",
+    "IP" => "Server IP:",
     "Hostname" => "Hostname:",
-    "Players" => "Hráèi:",
-    "Mission" => "Mise:",  
-    "BtnConnect" => "Pøipojit se na server",
-    "BtnInfo" => "Seznam hráèù"
+    "Players" => "Players:",
+    "Mission" => "Mission:",  
+    "BtnConnect" => "Connect to the server",
+    "BtnInfo" => "Player List"
   ),
   "Mainpage" => array(
-    "LastPictures" => "Obrázky z posledních eventù",
+    "LastPictures" => "Screenshots from recent events",
     "Rules" => array(
-      "Title" => "Pravidla herního portálu a serveru",
-      "Section0" => "Pokud s náma chcete hrát, musíte dodrovat pravidla slušného chování! Kdokoliv pravidla poruší, u si s náma nezahraje.",         
-      "Section1Title" => "Herní server",
+      "Title" => "Rules of gaming portal and server",
+      "Section0" => "If you want to play with us, you have to behave appropriately! Whoever breaks these rules won't be able to play with us ever again..",         
+      "Section1Title" => "Gaming server",
       "Section1" => "UNDEFINED",
-      "Section2Title" => "Všeobecnì",
+      "Section2Title" => "In general",
       "Section2" => "UNDEFINED"
     )
   ),
   "Community" => array(
-    "Title" => "Komunita Arma Events",
+    "Title" => "Arma Events Community",
     "NewsColumn" => array(
-      "Title" => "Poslední novinka"
+      "Title" => "Last news"
     ),
     "ShoutboxColumn" => array(
       "Title" => "Shoutbox",
-      "Message" => "Zpráva",
-      "MessageDesc" => "Zpráva pro ostatní",
-      "BtnSend" => "Pošli!",
-      "Smileys" => "Smajly",
+      "Message" => "Message",
+      "MessageDesc" => "Message for others",
+      "BtnSend" => "Send!",
+      "Smileys" => "Emoticons",
       "Admin" => "Admin"
     ),
     "RSSColumn" => array(
-      "Title" => "Komunitní novinky",
-      "InfoTitle  " => "RSS kanály",
-      "Info" => "Chcete aby váš kanál novinek RSS byl zvìøejnìn v tomto panelu? Napište nám!"
+      "Title" => "Community news",
+      "InfoTitle  " => "RSS channels",
+      "Info" => "Do you want to make your RSS channel public in this panel? Write to us!"
     ),
     "YTColumn" => array(
-      "Title" => "Komunitní video"
+      "Title" => "Community video"
     )
   ),
   "Play" => array(
-    "Title" => "Hrát s Arma Events",
+    "Title" => "Play with Arma Events",
     "NeedsColumn" => array(
-      "Title" => "Co je potøeba",
-      "AddonsTitle" => "Addony", //TODO: localize addons tab
-      "ConnectionTitle" => "Pøipojení", //TODO: localize connection tab
+      "Title" => "Requirements",
+      "AddonsTitle" => "Addons", //TODO: localize addons tab
+      "ConnectionTitle" => "Connection", //TODO: localize connection tab
       "TSTitle" => "Teamspeak" //TODO: localize TS tab
     ),
     "EventsColumn" => array(
-      "Title" => "Uivatelské eventy",
-      "CreateTitle" => "Zalote vlastní událost",
-      "Create" => "Pøes uivatelské menu mùete zakládat vlastní eventy! Nejaktuálnìjší eventy se zobrazí zde v tomto seznamu!",
-      "ShowDone" => "Zobrazit všechny odehrané eventy"
+      "Title" => "User events",
+      "CreateTitle" => "Create own event",
+      "Create" => "You can create your own events via the user panel! The most recent events will be shown in this list!",
+      "ShowDone" => "View all played events"
     )
   ),
   "Addons" => array(
-    "Title" => "Seznam addonù Arma Events",
+    "Title" => "Arma Events addon list",
     "Info" => array(
-      "Title" => "Informace",
-      "Text" => "Náš server má vypnutou kontrolu klíèù, to znamená, e se na nìj pøipojíte i bez zaplıch addonù. To ovšem mùe zpùsobit nìjaké problémy pøi hraní, take neruèíme za funkènost hry pøi hraní bez potøebnıch addonù"
+      "Title" => "Information",
+      "Text" => "Our server has key check disabled, which means you can connect event without the addons enabled. This can of course cause problems during playing, so we do not guarantee flawless gameplay without the required addons enabled."
     ),
     "MainAddons" => array(
-      "Title" => "Hlavní addony",
-      "Disabled" => "Zatmavené addony nejsou na serveru právì k dispozici"
+      "Title" => "Main addons",
+      "Disabled" => "Greyed out addons are not currently available on the server"
     ),
     "ClientAddons" => array(
-      "Title" => "Clientside addony"
+      "Title" => "Clientside addons"
     )
   )
 );
